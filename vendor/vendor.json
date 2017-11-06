@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "4mp3lswE34EjHV6cobWwqCJB3TI=",
+			"path": "github.com/ramin0/chatbot",
+			"revision": "c9bb79785b0225cdb629db50037d11361d8c0bed",
+			"revisionTime": "2017-09-22T23:21:59Z"
+		}
+	],
+	"rootPath": "github.com"
+}
